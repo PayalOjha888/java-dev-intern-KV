@@ -2,7 +2,7 @@ import java.util.*;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-public class Practice_01_04 {
+public class streampracticeinjava {
     public static void main(String[] args) {
         //Day 11 : 01/04/2026
 
